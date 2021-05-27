@@ -29,6 +29,9 @@ async function fetchWebmentions(since, perPage = 10000) {
     }
 
     let url = `${API}/mentions.jf2?domain=${domain}&token=${TOKEN}&per-page=${perPage}`
+    console.log(
+        `>>> API_URL: ${API}/mentions.jf2?domain=${domain}&token=****&per-page=${perPage}`
+    )
     if (since) url += `&since=${since}`
 
     const response = await fetch(url)
