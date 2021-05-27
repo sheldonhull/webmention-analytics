@@ -1,0 +1,2025 @@
+{
+  "lastFetched": "2021-05-27T23:04:42.711Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Luis Morales",
+        "photo": "https://webmention.io/avatar/abs.twimg.com/0e6b2cd70aa5b35dec24ca4e1e63f8963f0118736d9ec3bba77e3a8c99a27bc2.png",
+        "url": "https://twitter.com/LuisTIOgt"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1397546049481453568#favorited-by-1092837452820238336",
+      "published": null,
+      "wm-received": "2021-05-26T22:16:00Z",
+      "wm-id": 1171551,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1397546049481453568/1092837452820238336",
+      "wm-target": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "like-of": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daniel Vergara 🐍",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e2278dd2ccbff45ed0454b634bbd1a16475d812bf2eac2e923de9b30519c06dc.jpg",
+        "url": "https://twitter.com/__danvergara__"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1397546049481453568#favorited-by-2270921329",
+      "published": null,
+      "wm-received": "2021-05-26T19:47:55Z",
+      "wm-id": 1171442,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1397546049481453568/2270921329",
+      "wm-target": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "like-of": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Awesome Go Repositories",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1f50e9a8dcfccc319e531ebbfd464f9fc6732ca7f19757b4eaa4850767aa4959.jpg",
+        "url": "https://twitter.com/GolangRepos"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1397546049481453568#favorited-by-1328795920666931203",
+      "published": null,
+      "wm-received": "2021-05-26T14:39:03Z",
+      "wm-id": 1171200,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1397546049481453568/1328795920666931203",
+      "wm-target": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "like-of": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Awesome Go Repositories",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1f50e9a8dcfccc319e531ebbfd464f9fc6732ca7f19757b4eaa4850767aa4959.jpg",
+        "url": "https://twitter.com/GolangRepos"
+      },
+      "url": "https://twitter.com/GolangRepos/status/1397546941953806337",
+      "published": "2021-05-26T13:35:30+00:00",
+      "wm-received": "2021-05-26T14:39:02Z",
+      "wm-id": 1171199,
+      "wm-source": "https://brid.gy/comment/twitter/sheldon_hull/1397546049481453568/1397546941953806337",
+      "wm-target": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "content": {
+        "html": "Really helpful post 🙌🏻\n<a class=\"u-mention\" href=\"https://twitter.com/sheldon_hull\"></a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/\"></a>",
+        "text": "Really helpful post 🙌🏻"
+      },
+      "in-reply-to": "https://www.sheldonhull.com/blog/dedupe-google-drive-with-rclone/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "azu",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c1f62346c6c5a900c4244c3579458324a760197e22d2a3711009c37ad60b8415.jpg",
+        "url": "https://twitter.com/azu_re"
+      },
+      "url": "https://twitter.com/azu_re/status/1397333532754669569",
+      "published": "2021-05-25T23:27:30+00:00",
+      "wm-received": "2021-05-26T00:05:09Z",
+      "wm-id": 1170366,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/1397333532754669569",
+      "wm-target": "https://www.sheldonhull.com/",
+      "content": {
+        "html": "見てる: \"Leverage Renovate for Easy Dependency Updates - <a href=\"http://sheldonhull.com\">sheldonhull.com</a>\" <a href=\"https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/\">sheldonhull.com/microblog/leve…</a>\n<a class=\"u-mention\" href=\"http://sheldonhull.com/\"></a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/\"></a>",
+        "text": "見てる: \"Leverage Renovate for Easy Dependency Updates - sheldonhull.com\" sheldonhull.com/microblog/leve…"
+      },
+      "mention-of": "https://www.sheldonhull.com/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "azu",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c1f62346c6c5a900c4244c3579458324a760197e22d2a3711009c37ad60b8415.jpg",
+        "url": "https://twitter.com/azu_re"
+      },
+      "url": "https://twitter.com/azu_re/status/1397333532754669569",
+      "published": "2021-05-25T23:27:30+00:00",
+      "wm-received": "2021-05-26T00:05:09Z",
+      "wm-id": 1170367,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/1397333532754669569",
+      "wm-target": "https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/",
+      "content": {
+        "html": "見てる: \"Leverage Renovate for Easy Dependency Updates - <a href=\"http://sheldonhull.com\">sheldonhull.com</a>\" <a href=\"https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/\">sheldonhull.com/microblog/leve…</a>\n<a class=\"u-mention\" href=\"http://sheldonhull.com/\"></a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/\"></a>",
+        "text": "見てる: \"Leverage Renovate for Easy Dependency Updates - sheldonhull.com\" sheldonhull.com/microblog/leve…"
+      },
+      "mention-of": "https://www.sheldonhull.com/microblog/leverage-renovate-for-easy-dependency-updates/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sheldon Hull",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/570e539daf6f476eeaf772c929b2ebb5f87eeaac5a50489f2ecf9f0186baa9c6.jpg",
+        "url": "https://twitter.com/sheldon_hull"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1397111826886840321",
+      "published": "2021-05-25T08:46:31+00:00",
+      "wm-received": "2021-05-25T08:53:41Z",
+      "wm-id": 1169574,
+      "wm-source": "https://brid.gy/comment/twitter/sheldon_hull/1397081264365113346/1397111826886840321",
+      "wm-target": "https://www.sheldonhull.com/microblog/",
+      "content": {
+        "html": "Was pretty much what I was thinking today 😃 think we are on the same page ⚡. I do like the idea of promoting a small piece into a deeper scope. Much better than more noise.\n<a class=\"u-mention\" href=\"http://super.so/\"></a>\n<a class=\"u-mention\" href=\"https://super.so/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/swyx\"></a>",
+        "text": "Was pretty much what I was thinking today 😃 think we are on the same page ⚡. I do like the idea of promoting a small piece into a deeper scope. Much better than more noise."
+      },
+      "in-reply-to": "https://www.sheldonhull.com/microblog/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "swyx",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/dc00a17efc0b86a5f0299068c592a59c80d3e2240cedff60edc0fd2c2105f7b0.jpg",
+        "url": "https://twitter.com/swyx"
+      },
+      "url": "https://twitter.com/swyx/status/1397082990857969666",
+      "published": "2021-05-25T06:51:56+00:00",
+      "wm-received": "2021-05-25T07:39:44Z",
+      "wm-id": 1169551,
+      "wm-source": "https://brid.gy/comment/twitter/sheldon_hull/1397081264365113346/1397082990857969666",
+      "wm-target": "https://www.sheldonhull.com/microblog/",
+      "content": {
+        "html": "yes but i wouldn't make them different sections as its hard to then upgrade them into full pieces - i'd just output a little disclaimer and have it show up differently in the index and RSS feeds\n<a class=\"u-mention\" href=\"http://super.so/\"></a>\n<a class=\"u-mention\" href=\"https://super.so/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/sheldon_hull\"></a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/\"></a>",
+        "text": "yes but i wouldn't make them different sections as its hard to then upgrade them into full pieces - i'd just output a little disclaimer and have it show up differently in the index and RSS feeds"
+      },
+      "in-reply-to": "https://www.sheldonhull.com/microblog/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Python Expert",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e502da5cc776f3e4c5dbe5a85b2ffd1e1c751a9369c32d4e39a37c5cad2eb5f7.jpg",
+        "url": "https://twitter.com/PythonExpertBot"
+      },
+      "url": "https://twitter.com/PythonExpertBot/status/1396999193667964928",
+      "published": "2021-05-25T01:18:57+00:00",
+      "wm-received": "2021-05-25T01:19:15Z",
+      "wm-id": 1169312,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1396996530549272579/1396999193667964928",
+      "wm-target": "https://www.sheldonhull.com/microblog/the-open-guide-to-amazon-web-services/",
+      "content": {
+        "text": "The Open Guide to Amazon Web Services sheldonhull.com/microblog/the-… #tech #development #microblog #aws #devops via @sheldon_hull"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/the-open-guide-to-amazon-web-services/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jerry Chen",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/45dca1341f2e130d27d6418fadb023e674f1db7ee26aae8fa802cf23b4d7d0af.png",
+        "url": "https://twitter.com/mrtallerjerry"
+      },
+      "url": "https://twitter.com/mrtallerjerry/status/1396997320370102274",
+      "published": "2021-05-25T01:11:30+00:00",
+      "wm-received": "2021-05-25T01:19:14Z",
+      "wm-id": 1169311,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1396996530549272579/1396997320370102274",
+      "wm-target": "https://www.sheldonhull.com/microblog/the-open-guide-to-amazon-web-services/",
+      "content": {
+        "text": "The Open Guide to Amazon Web Services sheldonhull.com/microblog/the-… #tech #development #microblog #aws #devops via @sheldon_hull"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/the-open-guide-to-amazon-web-services/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "InfluxData",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f9ad6153f618321438bc470bfc7cfd17b2b800d850784cc632aa5025b92ae493.png",
+        "url": "https://twitter.com/InfluxDB"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1394819145028493312#favorited-by-1967601206",
+      "published": null,
+      "wm-received": "2021-05-20T19:05:32Z",
+      "wm-id": 1165030,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1394819145028493312/1967601206",
+      "wm-target": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "like-of": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paulo Morgado",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/994d27c37e96428c06ce71cea37574443dbffea73d48e32e6c3d9e4fae184657.jpg",
+        "url": "https://twitter.com/PauloMorgado"
+      },
+      "url": "https://twitter.com/PauloMorgado/status/885032260474474498",
+      "published": "2017-07-12T07:05:08+00:00",
+      "wm-received": "2021-05-19T01:17:28Z",
+      "wm-id": 1162927,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/885032260474474498",
+      "wm-target": "https://www.sheldonhull.com/blog/automating-ssms-2016-updates-install/",
+      "photo": [
+        "https://pbs.twimg.com/media/DEhEJe9W0AEhUvN.jpg"
+      ],
+      "content": {
+        "html": "&gt;  Automating SSMS 2016 Updates &amp; Install <a href=\"http://dlvr.it/PTzNFp\">dlvr.it/PTzNFp</a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/blog/automating-ssms-2016-updates-install/\"></a>",
+        "text": ">  Automating SSMS 2016 Updates & Install dlvr.it/PTzNFp"
+      },
+      "mention-of": "https://www.sheldonhull.com/blog/automating-ssms-2016-updates-install/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paulo Morgado",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/994d27c37e96428c06ce71cea37574443dbffea73d48e32e6c3d9e4fae184657.jpg",
+        "url": "https://twitter.com/PauloMorgado"
+      },
+      "url": "https://twitter.com/PauloMorgado/status/889604155785887745",
+      "published": "2017-07-24T21:52:13+00:00",
+      "wm-received": "2021-05-19T01:16:46Z",
+      "wm-id": 1162926,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/889604155785887745",
+      "wm-target": "https://www.sheldonhull.com/blog/ants-performance-profiler-for-the-sql-server-dev/",
+      "photo": [
+        "https://pbs.twimg.com/media/DFiCQ0jVwAA1L4R.png"
+      ],
+      "content": {
+        "html": "&gt;  ANTS Performance Profiler for the SQL Server Dev <a href=\"http://dlvr.it/PYBZPM\">dlvr.it/PYBZPM</a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/blog/ants-performance-profiler-for-the-sql-server-dev/\"></a>",
+        "text": ">  ANTS Performance Profiler for the SQL Server Dev dlvr.it/PYBZPM"
+      },
+      "mention-of": "https://www.sheldonhull.com/blog/ants-performance-profiler-for-the-sql-server-dev/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Redgate",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/eaf69b50c703336d39c5c8bdebf7960dc9d8a63e2e4ac0ee5f85ca8081f6d785.jpg",
+        "url": "https://twitter.com/redgate"
+      },
+      "url": "https://twitter.com/redgate/status/732599119647285249",
+      "published": "2016-05-17T15:50:15+00:00",
+      "wm-received": "2021-05-19T01:16:44Z",
+      "wm-id": 1162925,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/732599119647285249",
+      "wm-target": "https://www.sheldonhull.com/red-gate-dependency-tracker-making-databases-into-moving-art/",
+      "content": {
+        "html": "Sheldon Hull <a href=\"https://twitter.com/sheldon_hull\">@sheldon_hull</a>  demonstrates the visual aspect of database diagramming with SQL Dependency Tracke: <a href=\"http://ow.ly/Bhlx300hFrG\">ow.ly/Bhlx300hFrG</a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/red-gate-dependency-tracker-making-databases-into-moving-art/\"></a>",
+        "text": "Sheldon Hull @sheldon_hull  demonstrates the visual aspect of database diagramming with SQL Dependency Tracke: ow.ly/Bhlx300hFrG"
+      },
+      "mention-of": "https://www.sheldonhull.com/red-gate-dependency-tracker-making-databases-into-moving-art/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "H",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c644bf7089af9b7fa739746c266d3801eb883ca194648b739fe9f624ecf9553e.jpg",
+        "url": "https://twitter.com/imessage357_H"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/895425553297063937#favorited-by-1624620326",
+      "published": null,
+      "wm-received": "2021-05-19T01:15:18Z",
+      "wm-id": 1162924,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/895425553297063937/1624620326",
+      "wm-target": "https://www.sheldonhull.com/blog/exploring-sql-server-with-powershell-and-smo-basics/",
+      "like-of": "https://www.sheldonhull.com/blog/exploring-sql-server-with-powershell-and-smo-basics/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Very Proud Robot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4142cc3e37de881c8155e2a03d962fb5e470e1f6e175b6f88e63abbb24606509.jpg",
+        "url": "https://twitter.com/RobotProud"
+      },
+      "url": "https://twitter.com/RobotProud/status/1288836818763485190",
+      "published": "2020-07-30T14:00:17+00:00",
+      "wm-received": "2021-05-19T01:12:55Z",
+      "wm-id": 1162922,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1288836796529414146/1288836818763485190",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "content": {
+        "text": "#100DaysOfCode #microblog Day 2 of 100 progress Focused on logistics, setup for remaining tests Forked Learn Go With Tests Setup Visual Studio Codespaces (Docker … bit.ly/32YCXha"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gnuts about Code",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e7c1a9e387c9103882ac1ba9d00537a63853a8e537a6e896ddd07d6bfc8d72a.jpg",
+        "url": "https://twitter.com/CodeGnuts"
+      },
+      "url": "https://twitter.com/CodeGnuts/status/1288836818281136131",
+      "published": "2020-07-30T14:00:17+00:00",
+      "wm-received": "2021-05-19T01:12:55Z",
+      "wm-id": 1162923,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1288836796529414146/1288836818281136131",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "content": {
+        "text": "#100DaysOfCode #microblog Day 2 of 100 progress Focused on logistics, setup for remaining tests Forked Learn Go With Tests Setup Visual Studio Codespaces (Docker … bit.ly/32YCXha"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Let's learn together 🤖",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f6343182500c0d39529242516f6dad7f1a700632d1954dee3470c999d1f996ff.jpg",
+        "url": "https://twitter.com/learn__together"
+      },
+      "url": "https://twitter.com/learn__together/status/1288836819837054977",
+      "published": "2020-07-30T14:00:17+00:00",
+      "wm-received": "2021-05-19T01:12:54Z",
+      "wm-id": 1162921,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1288836796529414146/1288836819837054977",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "content": {
+        "text": "#100DaysOfCode #microblog Day 2 of 100 progress Focused on logistics, setup for remaining tests Forked Learn Go With Tests Setup Visual Studio Codespaces (Docker … bit.ly/32YCXha"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BOT Kitty 🐈",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c8eee3dc41360a1b018a60af1bb3effd2935d6f2c7a80e7ac1f1e25c13fc94b0.jpg",
+        "url": "https://twitter.com/BotRaj1"
+      },
+      "url": "https://twitter.com/BotRaj1/status/1288837966752821249",
+      "published": "2020-07-30T14:04:51+00:00",
+      "wm-received": "2021-05-19T01:12:52Z",
+      "wm-id": 1162919,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1288836796529414146/1288837966752821249",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "content": {
+        "text": "#100DaysOfCode #microblog Day 2 of 100 progress Focused on logistics, setup for remaining tests Forked Learn Go With Tests Setup Visual Studio Codespaces (Docker … bit.ly/32YCXha"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CodeFullOfBugs",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/ed32470de9dc0d5b7a477da3d51076d212564f32269fd855256f9ad8cce82e59.jpg",
+        "url": "https://twitter.com/full_bugs"
+      },
+      "url": "https://twitter.com/full_bugs/status/1288837807172190208",
+      "published": "2020-07-30T14:04:13+00:00",
+      "wm-received": "2021-05-19T01:12:52Z",
+      "wm-id": 1162920,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1288836796529414146/1288837807172190208",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "content": {
+        "text": "#100DaysOfCode #microblog Day 2 of 100 progress Focused on logistics, setup for remaining tests Forked Learn Go With Tests Setup Visual Studio Codespaces (Docker … bit.ly/32YCXha"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Keep Going! (#100DaysofCode)",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7c2d49196cdafc40b70a1d3805793630089227d842802d5cb3284d116f6519ef.jpg",
+        "url": "https://twitter.com/100daysofcoders"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1288836796529414146#favorited-by-1228323468132798465",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:51Z",
+      "wm-id": 1162918,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1288836796529414146/1228323468132798465",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jonathan Carter",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f7289dacb624c68e1f3a1fac0afb0d9f108ebf4482d1d287db307a3292fe5537.png",
+        "url": "https://twitter.com/LostInTangent"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1288836796529414146#favorited-by-11342852",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:49Z",
+      "wm-id": 1162917,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1288836796529414146/11342852",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CoderYoga🧘‍♂️",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a9501db20d1bfa6db0160dee83d1f3c7335afe56baa83c95287e5408ef2a6261.jpg",
+        "url": "https://twitter.com/KoderJS"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1288836796529414146#favorited-by-1265062732270886913",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:48Z",
+      "wm-id": 1162916,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1288836796529414146/1265062732270886913",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JsonFormatter",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/2b725047f49456dbf5eb4332c333629716e96cbc5b38223c2a463fd41b8e7936.png",
+        "url": "https://twitter.com/jsonformatter"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1288836796529414146#favorited-by-3912690972",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:47Z",
+      "wm-id": 1162914,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1288836796529414146/3912690972",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Codebeautify",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/500e8907686c01a7a9c1f431dc1dc03ae9dbc0457b9e565445efe4d9e6d94312.png",
+        "url": "https://twitter.com/Codebeautify"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1288836796529414146#favorited-by-2193929264",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:47Z",
+      "wm-id": 1162915,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1288836796529414146/2193929264",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-07-27-go-r1-day-2/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christin",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ce661c831da60ae5e6590beac80ad9f147fdc6e1dbb39ceb52726827a607ac.jpg",
+        "url": "https://twitter.com/christinfrohne"
+      },
+      "url": "https://twitter.com/christinfrohne/status/1306121367931289600",
+      "published": "2020-09-16T06:42:55+00:00",
+      "wm-received": "2021-05-19T01:12:46Z",
+      "wm-id": 1162913,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305869184111435778/1306121367931289600",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod, a full fledged EKS deployment and more in a single command. \n#gitpod #docker #terraform #Kubernetes \n\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Miro Spönemann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e930ef5975710f18d8e24f957ff4ae1f75d48fb02f43886310e8de0dadaabee7.png",
+        "url": "https://twitter.com/sponemann"
+      },
+      "url": "https://twitter.com/sponemann/status/1306258070754951169",
+      "published": "2020-09-16T15:46:07+00:00",
+      "wm-received": "2021-05-19T01:12:44Z",
+      "wm-id": 1162911,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305869184111435778/1306258070754951169",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod, a full fledged EKS deployment and more in a single command. \n#gitpod #docker #terraform #Kubernetes \n\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gitpod",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/d1d4820d82c74e296d4dc8185785cd7fc246abed8cd745b8b387c514733c067d.jpg",
+        "url": "https://twitter.com/gitpod"
+      },
+      "url": "https://twitter.com/gitpod/status/1306124083835408384",
+      "published": "2020-09-16T06:53:42+00:00",
+      "wm-received": "2021-05-19T01:12:44Z",
+      "wm-id": 1162912,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305869184111435778/1306124083835408384",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod, a full fledged EKS deployment and more in a single command. \n#gitpod #docker #terraform #Kubernetes \n\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jan Keromnes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e662855c1ac9febd01093841b0c52c08a64c4b52129aabd332e883e05573f250.jpg",
+        "url": "https://twitter.com/jankeromnes"
+      },
+      "url": "https://twitter.com/jankeromnes/status/1306271530855399424",
+      "published": "2020-09-16T16:39:36+00:00",
+      "wm-received": "2021-05-19T01:12:43Z",
+      "wm-id": 1162910,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305869184111435778/1306271530855399424",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod, a full fledged EKS deployment and more in a single command. \n#gitpod #docker #terraform #Kubernetes \n\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Friedrich, go SLO ... conf 📈🇦🇹",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8170df0f645bbe7a47f1ada8dbd5fcd2eeed7b5b2cf59f4a491b03d3b02dd792.jpg",
+        "url": "https://twitter.com/dnsmichi"
+      },
+      "url": "https://twitter.com/dnsmichi/status/1315707159582322688",
+      "published": "2020-10-12T17:33:26+00:00",
+      "wm-received": "2021-05-19T01:12:42Z",
+      "wm-id": 1162909,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305869184111435778/1315707159582322688",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod, a full fledged EKS deployment and more in a single command. \n#gitpod #docker #terraform #Kubernetes \n\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ed Mooney ♘",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/86360e83ae6c99849784e5728694c73400722826af5513eace70b05e19cccb36.jpg",
+        "url": "https://twitter.com/edmooney"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-2658021",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:41Z",
+      "wm-id": 1162908,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/2658021",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christin",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ce661c831da60ae5e6590beac80ad9f147fdc6e1dbb39ceb52726827a607ac.jpg",
+        "url": "https://twitter.com/christinfrohne"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-1080485069003853825",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:40Z",
+      "wm-id": 1162906,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/1080485069003853825",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BallerinaNews",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/21921b3db197228f61929e04f6a9c05b5f749c755649f15d08be619a21bc4f2a.jpg",
+        "url": "https://twitter.com/ballerinanews"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-1164400665847898112",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:40Z",
+      "wm-id": 1162907,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/1164400665847898112",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lorenzo Bettini",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/582836197de7a44cd2cf85bdbe2b5fb2e8bd5b9c814ca0790a51cbb21614ac5e.jpg",
+        "url": "https://twitter.com/lorenzo_bettini"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-442255157",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:39Z",
+      "wm-id": 1162904,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/442255157",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jan Keromnes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e662855c1ac9febd01093841b0c52c08a64c4b52129aabd332e883e05573f250.jpg",
+        "url": "https://twitter.com/jankeromnes"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-196316258",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:39Z",
+      "wm-id": 1162905,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/196316258",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "anarcher",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0fb260e493b916aa7279efd2afd87bb90a29c190db8788228e37462ba44d2c8d.png",
+        "url": "https://twitter.com/anarcher"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-14733872",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:38Z",
+      "wm-id": 1162902,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/14733872",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Friedrich, go SLO ... conf 📈🇦🇹",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8170df0f645bbe7a47f1ada8dbd5fcd2eeed7b5b2cf59f4a491b03d3b02dd792.jpg",
+        "url": "https://twitter.com/dnsmichi"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305869184111435778#favorited-by-118674790",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:38Z",
+      "wm-id": 1162903,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305869184111435778/118674790",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Very Proud Robot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4142cc3e37de881c8155e2a03d962fb5e470e1f6e175b6f88e63abbb24606509.jpg",
+        "url": "https://twitter.com/RobotProud"
+      },
+      "url": "https://twitter.com/RobotProud/status/1306231560052658177",
+      "published": "2020-09-16T14:00:47+00:00",
+      "wm-received": "2021-05-19T01:12:37Z",
+      "wm-id": 1162901,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231560052658177",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "xael bot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/34b599aaab023587c9fbb4b1fdfe122aa646d05eecae0c2b316127be8630b187.png",
+        "url": "https://twitter.com/xaelbot"
+      },
+      "url": "https://twitter.com/xaelbot/status/1306231591581159426",
+      "published": "2020-09-16T14:00:54+00:00",
+      "wm-received": "2021-05-19T01:12:36Z",
+      "wm-id": 1162899,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231591581159426",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Inferno",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6adcb8be05cb83998f23fd29b6c9801731af25d96b185c6651c6901f3fdd948e.jpg",
+        "url": "https://twitter.com/theInfernobot"
+      },
+      "url": "https://twitter.com/theInfernobot/status/1306231566075658240",
+      "published": "2020-09-16T14:00:48+00:00",
+      "wm-received": "2021-05-19T01:12:36Z",
+      "wm-id": 1162900,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231566075658240",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "#100daysOfCode",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/672cd5cabab1cda3fe5da13a9e1147ff26e9a4fae248d6686f30a85930606a44.png",
+        "url": "https://twitter.com/codedailybot"
+      },
+      "url": "https://twitter.com/codedailybot/status/1306231897492684800",
+      "published": "2020-09-16T14:02:07+00:00",
+      "wm-received": "2021-05-19T01:12:35Z",
+      "wm-id": 1162898,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231897492684800",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "#100daysOfCode",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/672cd5cabab1cda3fe5da13a9e1147ff26e9a4fae248d6686f30a85930606a44.png",
+        "url": "https://twitter.com/codedailybot"
+      },
+      "url": "https://twitter.com/codedailybot/status/1306231897517953024",
+      "published": "2020-09-16T14:02:07+00:00",
+      "wm-received": "2021-05-19T01:12:31Z",
+      "wm-id": 1162897,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231897517953024",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CodersNotes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3cddc36c472604777d0b7cb9ef0f5b21ac4df5bad30cf791f80d6ab1468200ca.jpg",
+        "url": "https://twitter.com/CoderNotesBot"
+      },
+      "url": "https://twitter.com/CoderNotesBot/status/1306232056230240256",
+      "published": "2020-09-16T14:02:45+00:00",
+      "wm-received": "2021-05-19T01:12:30Z",
+      "wm-id": 1162895,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306232056230240256",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "#100daysOfCode",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/672cd5cabab1cda3fe5da13a9e1147ff26e9a4fae248d6686f30a85930606a44.png",
+        "url": "https://twitter.com/codedailybot"
+      },
+      "url": "https://twitter.com/codedailybot/status/1306231897522147330",
+      "published": "2020-09-16T14:02:07+00:00",
+      "wm-received": "2021-05-19T01:12:30Z",
+      "wm-id": 1162896,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306231897522147330",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AltBot 👽🤖👨🏻‍💻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b75b4eece8176bedf22d10c8a8419659b36e66f55fc231c4ad3a72b310ca2168.jpg",
+        "url": "https://twitter.com/AltBot4"
+      },
+      "url": "https://twitter.com/AltBot4/status/1306397506008473601",
+      "published": "2020-09-17T01:00:11+00:00",
+      "wm-received": "2021-05-19T01:12:29Z",
+      "wm-id": 1162893,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306397506008473601",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GoLang Trends",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/344d9b1c8c4c966fac2f9d91371a19dbfe699ba8a42e42093061fbe7c83eb2b1.jpg",
+        "url": "https://twitter.com/GolangTrends"
+      },
+      "url": "https://twitter.com/GolangTrends/status/1306397488597938176",
+      "published": "2020-09-17T01:00:07+00:00",
+      "wm-received": "2021-05-19T01:12:29Z",
+      "wm-id": 1162894,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306397488597938176",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "xael bot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/34b599aaab023587c9fbb4b1fdfe122aa646d05eecae0c2b316127be8630b187.png",
+        "url": "https://twitter.com/xaelbot"
+      },
+      "url": "https://twitter.com/xaelbot/status/1306397540326297600",
+      "published": "2020-09-17T01:00:19+00:00",
+      "wm-received": "2021-05-19T01:12:28Z",
+      "wm-id": 1162892,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306397540326297600",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Inferno",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/6adcb8be05cb83998f23fd29b6c9801731af25d96b185c6651c6901f3fdd948e.jpg",
+        "url": "https://twitter.com/theInfernobot"
+      },
+      "url": "https://twitter.com/theInfernobot/status/1306397615966294018",
+      "published": "2020-09-17T01:00:37+00:00",
+      "wm-received": "2021-05-19T01:12:27Z",
+      "wm-id": 1162891,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306397615966294018",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "கௌதம் சதாசிவம் | Gowtham Sadasivam",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/05a518b6ae2c901b72251265caf7b49a8799a8767334518f9df4a0306979110a.jpg",
+        "url": "https://twitter.com/gowthamsadasiva"
+      },
+      "url": "https://twitter.com/gowthamsadasiva/status/1306473646865616896",
+      "published": "2020-09-17T06:02:45+00:00",
+      "wm-received": "2021-05-19T01:12:26Z",
+      "wm-id": 1162889,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306473646865616896",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BOT Kitty 🐈",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c8eee3dc41360a1b018a60af1bb3effd2935d6f2c7a80e7ac1f1e25c13fc94b0.jpg",
+        "url": "https://twitter.com/BotRaj1"
+      },
+      "url": "https://twitter.com/BotRaj1/status/1306397675525419009",
+      "published": "2020-09-17T01:00:52+00:00",
+      "wm-received": "2021-05-19T01:12:26Z",
+      "wm-id": 1162890,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306397675525419009",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JSBot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/d3b5d39458624dd923d325a5c71691554b9b18d6d5104f53c3a94d5489cd209a.jpg",
+        "url": "https://twitter.com/Taieb_Bot"
+      },
+      "url": "https://twitter.com/Taieb_Bot/status/1306473655505911808",
+      "published": "2020-09-17T06:02:47+00:00",
+      "wm-received": "2021-05-19T01:12:22Z",
+      "wm-id": 1162888,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306473655505911808",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MaximusTheBot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/57c4cc4828f2ddbc5c1e8f31736e6af2491acac8936633f2f760de1267b09640.jpg",
+        "url": "https://twitter.com/MaximusTheBot"
+      },
+      "url": "https://twitter.com/MaximusTheBot/status/1306474141944614912",
+      "published": "2020-09-17T06:04:43+00:00",
+      "wm-received": "2021-05-19T01:12:21Z",
+      "wm-id": 1162886,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1306231537646686208/1306474141944614912",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "photo": [
+        "https://pbs.twimg.com/media/EiCqqU8XkAAThMW.png"
+      ],
+      "content": {
+        "text": "Go R1 Day 10 //  CLI tooling with autocomplete was fun to experiment with\n#100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "கௌதம் சதாசிவம் | Gowtham Sadasivam",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/05a518b6ae2c901b72251265caf7b49a8799a8767334518f9df4a0306979110a.jpg",
+        "url": "https://twitter.com/gowthamsadasiva"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1306231537646686208#favorited-by-57325871",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:21Z",
+      "wm-id": 1162887,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1306231537646686208/57325871",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Paul Brady",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/57390d0a27e82a7dff0382d8f0b8489f6d65458571d19d1f32516c7a006c9954.jpg",
+        "url": "https://twitter.com/bradypp"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1306231537646686208#favorited-by-21701976",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:19Z",
+      "wm-id": 1162885,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1306231537646686208/21701976",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MaximusTheBot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/57c4cc4828f2ddbc5c1e8f31736e6af2491acac8936633f2f760de1267b09640.jpg",
+        "url": "https://twitter.com/MaximusTheBot"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1306231537646686208#favorited-by-1304080168391077888",
+      "published": null,
+      "wm-received": "2021-05-19T01:12:18Z",
+      "wm-id": 1162884,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1306231537646686208/1304080168391077888",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-10/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Josh Duffney",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/262cc56222f70efedd440647f50e40373d1b405d88c91c1dbdbcd9ec2c59f1e1.jpg",
+        "url": "https://twitter.com/joshduffney"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1328838334504861696#favorited-by-1282189477",
+      "published": null,
+      "wm-received": "2021-05-19T01:11:18Z",
+      "wm-id": 1162883,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1328838334504861696/1282189477",
+      "wm-target": "https://www.sheldonhull.com/blog/filtering-results-in-go/",
+      "like-of": "https://www.sheldonhull.com/blog/filtering-results-in-go/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Let's learn together 🤖",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f6343182500c0d39529242516f6dad7f1a700632d1954dee3470c999d1f996ff.jpg",
+        "url": "https://twitter.com/learn__together"
+      },
+      "url": "https://twitter.com/learn__together/status/1305506750376767488",
+      "published": "2020-09-14T14:00:39+00:00",
+      "wm-received": "2021-05-19T01:11:09Z",
+      "wm-id": 1162881,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1305506727845036037/1305506750376767488",
+      "wm-target": "https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/",
+      "content": {
+        "text": "Reflections on Being a New Gopher With A Dotnet Background \n#golang #100DaysOfCode\nsheldonhull.com/blog/reflectio…"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Progate - coding made fun!",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f5bd9af9d947d8b60f0e675eb21959b2f32d467ae735d3ffc6935a8d4f345fbc.jpg",
+        "url": "https://twitter.com/progateEN"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1305506727845036037#favorited-by-870165894663503873",
+      "published": null,
+      "wm-received": "2021-05-19T01:11:09Z",
+      "wm-id": 1162882,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1305506727845036037/870165894663503873",
+      "wm-target": "https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/",
+      "like-of": "https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Very Proud Robot",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4142cc3e37de881c8155e2a03d962fb5e470e1f6e175b6f88e63abbb24606509.jpg",
+        "url": "https://twitter.com/RobotProud"
+      },
+      "url": "https://twitter.com/RobotProud/status/1327008351763517441",
+      "published": "2020-11-12T22:00:20+00:00",
+      "wm-received": "2021-05-19T01:10:57Z",
+      "wm-id": 1162880,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1327008329286234114/1327008351763517441",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "photo": [
+        "https://pbs.twimg.com/media/Emp7CvbXMAAfbEf.jpg"
+      ],
+      "content": {
+        "text": "Go R1 Day 14 #100DaysOfCode  #golang #microblog\nbit.ly/3nfh4B3👏"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Dany (She/Her) ☕",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a058e11200b88471366c41a446ce5fe9e7c02e5e2a12c93698f9d2a02684a3ca.jpg",
+        "url": "https://twitter.com/DanyChheang"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1327008329286234114#favorited-by-1266913979961655298",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:55Z",
+      "wm-id": 1162878,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1327008329286234114/1266913979961655298",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gnuts about Code",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e7c1a9e387c9103882ac1ba9d00537a63853a8e537a6e896ddd07d6bfc8d72a.jpg",
+        "url": "https://twitter.com/CodeGnuts"
+      },
+      "url": "https://twitter.com/CodeGnuts/status/1327008351763435522",
+      "published": "2020-11-12T22:00:20+00:00",
+      "wm-received": "2021-05-19T01:10:55Z",
+      "wm-id": 1162879,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1327008329286234114/1327008351763435522",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "photo": [
+        "https://pbs.twimg.com/media/Emp7CvbXMAAfbEf.jpg"
+      ],
+      "content": {
+        "text": "Go R1 Day 14 #100DaysOfCode  #golang #microblog\nbit.ly/3nfh4B3👏"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-14/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "CodersNotes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3cddc36c472604777d0b7cb9ef0f5b21ac4df5bad30cf791f80d6ab1468200ca.jpg",
+        "url": "https://twitter.com/CoderNotesBot"
+      },
+      "url": "https://twitter.com/CoderNotesBot/status/1310550953620156421",
+      "published": "2020-09-28T12:04:30+00:00",
+      "wm-received": "2021-05-19T01:10:52Z",
+      "wm-id": 1162877,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310550158543859712/1310550953620156421",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "AltBot 👽🤖👨🏻‍💻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b75b4eece8176bedf22d10c8a8419659b36e66f55fc231c4ad3a72b310ca2168.jpg",
+        "url": "https://twitter.com/AltBot4"
+      },
+      "url": "https://twitter.com/AltBot4/status/1310550299497635840",
+      "published": "2020-09-28T12:01:54+00:00",
+      "wm-received": "2021-05-19T01:10:50Z",
+      "wm-id": 1162875,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310550158543859712/1310550299497635840",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gnuts about Code",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e7c1a9e387c9103882ac1ba9d00537a63853a8e537a6e896ddd07d6bfc8d72a.jpg",
+        "url": "https://twitter.com/CodeGnuts"
+      },
+      "url": "https://twitter.com/CodeGnuts/status/1310550258682744832",
+      "published": "2020-09-28T12:01:45+00:00",
+      "wm-received": "2021-05-19T01:10:50Z",
+      "wm-id": 1162876,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310550158543859712/1310550258682744832",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BOT Kitty 🐈",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/c8eee3dc41360a1b018a60af1bb3effd2935d6f2c7a80e7ac1f1e25c13fc94b0.jpg",
+        "url": "https://twitter.com/BotRaj1"
+      },
+      "url": "https://twitter.com/BotRaj1/status/1310551109845618688",
+      "published": "2020-09-28T12:05:08+00:00",
+      "wm-received": "2021-05-19T01:10:49Z",
+      "wm-id": 1162873,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310550158543859712/1310551109845618688",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Omkarzzz",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/371296fcd95acaa3b6a55b15c80ccbbf9b671c9abc93476d3abb8fb3232f1aea.jpg",
+        "url": "https://twitter.com/Omkarzzz1"
+      },
+      "url": "https://twitter.com/Omkarzzz1/status/1310574427176751104",
+      "published": "2020-09-28T13:37:47+00:00",
+      "wm-received": "2021-05-19T01:10:49Z",
+      "wm-id": 1162874,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310550158543859712/1310574427176751104",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 11 of 100 progress Pluralsight Go material and some reading. Start Learning Go Web Development course by Jon Calhoun. Created repo and …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jan Koehnlein",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/12c5c715662ae6de79b0f1e29604b9984db68be0abe09001b09175386c76f6a5.jpg",
+        "url": "https://twitter.com/jankoehnlein"
+      },
+      "url": "https://twitter.com/jankoehnlein/status/1299361238712029184",
+      "published": "2020-08-28T15:00:34+00:00",
+      "wm-received": "2021-05-19T01:10:47Z",
+      "wm-id": 1162872,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299361238712029184",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Johannes Landgraf",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/9acb354bfd22ef6c729a69eb4116a6091d128bf138878e841edb15c3f78d8e66.jpg",
+        "url": "https://twitter.com/jolandgraf"
+      },
+      "url": "https://twitter.com/jolandgraf/status/1299375886937001991",
+      "published": "2020-08-28T15:58:47+00:00",
+      "wm-received": "2021-05-19T01:10:46Z",
+      "wm-id": 1162870,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299375886937001991",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sven Efftinge",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8859c8235c1ee644d32266a93bf2652e99ace5ae9db27bf81347dfb6d7d5a435.jpg",
+        "url": "https://twitter.com/svenefftinge"
+      },
+      "url": "https://twitter.com/svenefftinge/status/1299373395243565057",
+      "published": "2020-08-28T15:48:53+00:00",
+      "wm-received": "2021-05-19T01:10:46Z",
+      "wm-id": 1162871,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299373395243565057",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Miro Spönemann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e930ef5975710f18d8e24f957ff4ae1f75d48fb02f43886310e8de0dadaabee7.png",
+        "url": "https://twitter.com/sponemann"
+      },
+      "url": "https://twitter.com/sponemann/status/1299402740393603072",
+      "published": "2020-08-28T17:45:29+00:00",
+      "wm-received": "2021-05-19T01:10:41Z",
+      "wm-id": 1162869,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299402740393603072",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Moritz Eysholdt",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/bce28ea39be0fc8f3f6ecd74015376ac09cc8bfc280a33fa4637e010fe7fdaa2.jpg",
+        "url": "https://twitter.com/meysholdt"
+      },
+      "url": "https://twitter.com/meysholdt/status/1299621769297506305",
+      "published": "2020-08-29T08:15:50+00:00",
+      "wm-received": "2021-05-19T01:10:40Z",
+      "wm-id": 1162867,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299621769297506305",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anton Kosyakov",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/5d535fa35f241a7d3cf9b7ef51c59392ce136a72e299c0a0060883f8cde24470.jpg",
+        "url": "https://twitter.com/akosyakov"
+      },
+      "url": "https://twitter.com/akosyakov/status/1299415431242043392",
+      "published": "2020-08-28T18:35:55+00:00",
+      "wm-received": "2021-05-19T01:10:40Z",
+      "wm-id": 1162868,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1299346041779740673/1299415431242043392",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "content": {
+        "text": "Incredible setup experience with gitpod. \nCheck this out. Deploy an entire self-hosted kubernetes setup with a few commands and persists a terraform plan for you to customize. 💯\nsheldonhull.com/microblog/2020…"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christin",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e0ce661c831da60ae5e6590beac80ad9f147fdc6e1dbb39ceb52726827a607ac.jpg",
+        "url": "https://twitter.com/christinfrohne"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1299346041779740673#favorited-by-1080485069003853825",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:35Z",
+      "wm-id": 1162866,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1299346041779740673/1080485069003853825",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Moritz Eysholdt",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/bce28ea39be0fc8f3f6ecd74015376ac09cc8bfc280a33fa4637e010fe7fdaa2.jpg",
+        "url": "https://twitter.com/meysholdt"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1299346041779740673#favorited-by-19742731",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:31Z",
+      "wm-id": 1162865,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1299346041779740673/19742731",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Cornelius A. Ludmann",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/1723c3105d65c7e87ae6326f1fd3e201f7c458f55f9d592a3c9a707f98c9e11d.jpg",
+        "url": "https://twitter.com/ludmann"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1299346041779740673#favorited-by-19965886",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:30Z",
+      "wm-id": 1162864,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1299346041779740673/19965886",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anton Kosyakov",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/5d535fa35f241a7d3cf9b7ef51c59392ce136a72e299c0a0060883f8cde24470.jpg",
+        "url": "https://twitter.com/akosyakov"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1299346041779740673#favorited-by-207351205",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:29Z",
+      "wm-id": 1162863,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1299346041779740673/207351205",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sven Efftinge",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/8859c8235c1ee644d32266a93bf2652e99ace5ae9db27bf81347dfb6d7d5a435.jpg",
+        "url": "https://twitter.com/svenefftinge"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1299346041779740673#favorited-by-19832811",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:28Z",
+      "wm-id": 1162862,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1299346041779740673/19832811",
+      "wm-target": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "like-of": "https://www.sheldonhull.com/microblog/2020-08-28t01-16-incredible-setup-experience-with-gitpod/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kamlesh kumar",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a1afc112fd21c9c6a2072845ea5b28d1cf83c1162968f8472e93366d548d0678.jpg",
+        "url": "https://twitter.com/kkamlesh286"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1310912405292093441#favorited-by-927915931",
+      "published": null,
+      "wm-received": "2021-05-19T01:10:11Z",
+      "wm-id": 1162861,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1310912405292093441/927915931",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-12/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-12/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gnuts about Code",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e7c1a9e387c9103882ac1ba9d00537a63853a8e537a6e896ddd07d6bfc8d72a.jpg",
+        "url": "https://twitter.com/CodeGnuts"
+      },
+      "url": "https://twitter.com/CodeGnuts/status/1310912427270127617",
+      "published": "2020-09-29T12:00:52+00:00",
+      "wm-received": "2021-05-19T01:10:10Z",
+      "wm-id": 1162860,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1310912405292093441/1310912427270127617",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-12/",
+      "content": {
+        "text": "#microblog #100DaysOfCode #golang\nsheldonhull.com/microblog/go-r…\nDay 12 of 100 progress Worked on Algolia index project to do atomic updates on search index on my blog. Worked with json, structs, ranges, …"
+      },
+      "repost-of": "https://www.sheldonhull.com/microblog/go-r1-day-12/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ollie",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3adfcb3e917fc314911eb1ed00c2c1247c222e195c7e76d3f778d605be5bb0d8.png",
+        "url": "https://twitter.com/GolangAtSpeed"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1381970692443234310#favorited-by-1235476692090712065",
+      "published": null,
+      "wm-received": "2021-05-19T01:07:35Z",
+      "wm-id": 1162858,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1381970692443234310/1235476692090712065",
+      "wm-target": "https://www.sheldonhull.com/microblog/go-r1-day-36/",
+      "like-of": "https://www.sheldonhull.com/microblog/go-r1-day-36/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Git Town",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e224911a157816aae32b3ef5577af0e417433d81b5c832031f999aab42503c3.png",
+        "url": "https://twitter.com/GitTown"
+      },
+      "url": "https://twitter.com/GitTown/status/1364769795896446977",
+      "published": "2021-02-25T02:50:50+00:00",
+      "wm-received": "2021-05-19T01:04:15Z",
+      "wm-id": 1162857,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1364591043459489793/1364769795896446977",
+      "wm-target": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "content": {
+        "text": "Git Workflow With Git Town dlvr.it/RtP3gv"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Git Town",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0e224911a157816aae32b3ef5577af0e417433d81b5c832031f999aab42503c3.png",
+        "url": "https://twitter.com/GitTown"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1364591043459489793#favorited-by-3181818931",
+      "published": null,
+      "wm-received": "2021-05-19T01:04:14Z",
+      "wm-id": 1162855,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1364591043459489793/3181818931",
+      "wm-target": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "like-of": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Max Ivanov",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/3aafc7f0791570797926b4e624e869ff7e95793f359e135ec86053be910c7ac8.jpg",
+        "url": "https://twitter.com/max_v_i"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1364591043459489793#favorited-by-9677352",
+      "published": null,
+      "wm-received": "2021-05-19T01:04:14Z",
+      "wm-id": 1162856,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1364591043459489793/9677352",
+      "wm-target": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "like-of": "https://www.sheldonhull.com/blog/git-workflow-with-git-town/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "InfluxData",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f9ad6153f618321438bc470bfc7cfd17b2b800d850784cc632aa5025b92ae493.png",
+        "url": "https://twitter.com/InfluxDB"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1355168962179330051#favorited-by-1967601206",
+      "published": null,
+      "wm-received": "2021-05-19T01:04:13Z",
+      "wm-id": 1162854,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1355168962179330051/1967601206",
+      "wm-target": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "like-of": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Andrea Cavagna",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a8bd97f7736102f82f8938a4ada91bb1ddd79158205a58b2b849869899aa8086.jpg",
+        "url": "https://twitter.com/a_cava94"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1349494440910483456#favorited-by-606386162",
+      "published": null,
+      "wm-received": "2021-05-19T01:02:21Z",
+      "wm-id": 1162853,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1349494440910483456/606386162",
+      "wm-target": "https://www.sheldonhull.com/microblog/2019-05-17t15-57-32-05-00/",
+      "like-of": "https://www.sheldonhull.com/microblog/2019-05-17t15-57-32-05-00/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "InfluxData",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f9ad6153f618321438bc470bfc7cfd17b2b800d850784cc632aa5025b92ae493.png",
+        "url": "https://twitter.com/InfluxDB"
+      },
+      "url": "https://twitter.com/InfluxDB/status/1356282926229581827",
+      "published": "2021-02-01T16:47:02+00:00",
+      "wm-received": "2021-05-19T01:01:58Z",
+      "wm-id": 1162852,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/1356282926229581827",
+      "wm-target": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "content": {
+        "html": "Here's your quick start to using <a href=\"https://twitter.com/search?q=%23InfluxDB\">#InfluxDB</a> on <a href=\"https://twitter.com/search?q=%23Macos\">#Macos</a> from community member <a href=\"https://twitter.com/sheldon_hull\">@sheldon_hull</a> <a href=\"https://bit.ly/3r13rHI\">bit.ly/3r13rHI</a> <a href=\"https://twitter.com/search?q=%23OpenSource\">#OpenSource</a>\n<a class=\"u-mention\" href=\"https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/\"></a>",
+        "text": "Here's your quick start to using #InfluxDB on #Macos from community member @sheldon_hull bit.ly/3r13rHI #OpenSource"
+      },
+      "mention-of": "https://www.sheldonhull.com/blog/quick-start-to-using-influxdb-on-macos/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shane O'Neill",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/95bef7f61ff78ec455d473c7bc4755916da712501c3dd92ef389ef12b8803376.jpg",
+        "url": "https://twitter.com/SOZDBA"
+      },
+      "url": "https://twitter.com/SOZDBA/status/1281185418957000704",
+      "published": "2020-07-09T11:16:21+00:00",
+      "wm-received": "2021-05-19T00:59:07Z",
+      "wm-id": 1162832,
+      "wm-source": "https://brid.gy/post/twitter/sheldon_hull/1281185418957000704",
+      "wm-target": "https://www.sheldonhull.com/blog/azure-data-studio-sql-notebook-for-diagnostic-queries/",
+      "content": {
+        "html": "<a href=\"https://twitter.com/search?q=%23Reading\">#Reading</a> \n<a href=\"https://www.sheldonhull.com/blog/azure-data-studio-sql-notebook-for-diagnostic-queries/\">sheldonhull.com/blog/azure-dat…</a>",
+        "text": "#Reading \nsheldonhull.com/blog/azure-dat…"
+      },
+      "mention-of": "https://www.sheldonhull.com/blog/azure-data-studio-sql-notebook-for-diagnostic-queries/",
+      "wm-property": "mention-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Sheldon Hull",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/570e539daf6f476eeaf772c929b2ebb5f87eeaac5a50489f2ecf9f0186baa9c6.jpg",
+        "url": "https://twitter.com/sheldon_hull"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1394813776248119303#favorited-by-247477081",
+      "published": null,
+      "wm-received": "2021-05-19T00:38:50Z",
+      "wm-id": 1162687,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1394813776248119303/247477081",
+      "wm-target": "https://www.sheldonhull.com/microblog/cool-way-to-compare-features-in-note-apps/",
+      "like-of": "https://www.sheldonhull.com/microblog/cool-way-to-compare-features-in-note-apps/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lou ☁️ 👨‍💻🏋️‍♂️🎸🚴🏻‍♂️🏍",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/958c740201cba9ed34153416e8a0106137cce2b5ce0709d63e98b4fa11f3f1b8.jpg",
+        "url": "https://twitter.com/loujaybee"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1393651284469821442#favorited-by-1290693397",
+      "published": null,
+      "wm-received": "2021-05-16T10:33:21Z",
+      "wm-id": 1159615,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1393651284469821442/1290693397",
+      "wm-target": "https://www.sheldonhull.com/blog/diagrams-as-code/",
+      "like-of": "https://www.sheldonhull.com/blog/diagrams-as-code/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marvin Carpenter",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0b31f10b4cc61601f0fe87f731e1d0a1de0c073f655c681e8e54b229ac8a8d15.jpg",
+        "url": "https://twitter.com/DevonFury"
+      },
+      "url": "https://twitter.com/DevonFury/status/1325121793783422976",
+      "published": "2020-11-07T17:03:49+00:00",
+      "wm-received": "2021-05-16T00:35:27Z",
+      "wm-id": 1159152,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1324109192517615616/1325121793783422976",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "content": {
+        "text": "I ♥️ automation ... #blog #powershell #development\n\nbit.ly/32f9v5l"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BrandonLundt",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/868b840f44884ec69482e367c87c176ab0a1ccdf270f9a9a17c7fd48651ac455.jpg",
+        "url": "https://twitter.com/BrandonDaLundt"
+      },
+      "url": "https://twitter.com/BrandonDaLundt/status/1324353315900182529",
+      "published": "2020-11-05T14:10:10+00:00",
+      "wm-received": "2021-05-16T00:35:26Z",
+      "wm-id": 1159151,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1324109192517615616/1324353315900182529",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "content": {
+        "text": "I ♥️ automation ... #blog #powershell #development\n\nbit.ly/32f9v5l"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Francisco Navarro",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4dfa32374a182f3ec4effedc86c2eb651e74b9f0f9db071d70a99e4eb54373c6.jpg",
+        "url": "https://twitter.com/ctmcisco"
+      },
+      "url": "https://twitter.com/ctmcisco/status/1325120155689553920",
+      "published": "2020-11-07T16:57:19+00:00",
+      "wm-received": "2021-05-16T00:35:25Z",
+      "wm-id": 1159149,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1324109192517615616/1325120155689553920",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "content": {
+        "text": "I ♥️ automation ... #blog #powershell #development\n\nbit.ly/32f9v5l"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Marc-André Moreau",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/240f52c99c0f799e1973b130bbb725f84989770249acb921b3ca1d8de0e50849.jpg",
+        "url": "https://twitter.com/awakecoding"
+      },
+      "url": "https://twitter.com/awakecoding/status/1324403653281746947",
+      "published": "2020-11-05T17:30:11+00:00",
+      "wm-received": "2021-05-16T00:35:25Z",
+      "wm-id": 1159150,
+      "wm-source": "https://brid.gy/repost/twitter/sheldon_hull/1324109192517615616/1324403653281746947",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "content": {
+        "text": "I ♥️ automation ... #blog #powershell #development\n\nbit.ly/32f9v5l"
+      },
+      "repost-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Francisco Navarro",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4dfa32374a182f3ec4effedc86c2eb651e74b9f0f9db071d70a99e4eb54373c6.jpg",
+        "url": "https://twitter.com/ctmcisco"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1324109192517615616#favorited-by-48247965",
+      "published": null,
+      "wm-received": "2021-05-16T00:35:24Z",
+      "wm-id": 1159148,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1324109192517615616/48247965",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "like-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mr.ScriptRunner",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/927a28d61124db677e4ef1bb58f776924a592803e59ac3b73adcb0b906001f1d.jpg",
+        "url": "https://twitter.com/frank_kresse"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1324109192517615616#favorited-by-818858446107901952",
+      "published": null,
+      "wm-received": "2021-05-16T00:35:23Z",
+      "wm-id": 1159146,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1324109192517615616/818858446107901952",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "like-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Heiko Brenn",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/9a886f3542a1b4e059bbd7edbd130abe5adcef34a4af3ea4d30db5b16022e09d.jpg",
+        "url": "https://twitter.com/HeikoBrenn"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1324109192517615616#favorited-by-1036532233983721472",
+      "published": null,
+      "wm-received": "2021-05-16T00:35:23Z",
+      "wm-id": 1159147,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1324109192517615616/1036532233983721472",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "like-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BrandonLundt",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/868b840f44884ec69482e367c87c176ab0a1ccdf270f9a9a17c7fd48651ac455.jpg",
+        "url": "https://twitter.com/BrandonDaLundt"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1324109192517615616#favorited-by-983833629754195968",
+      "published": null,
+      "wm-received": "2021-05-16T00:35:22Z",
+      "wm-id": 1159144,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1324109192517615616/983833629754195968",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "like-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Matt Davis 💉💉🎉",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e804a4c5dfa999369b79bacad056f7834a804e24990c54e8abd7f40bcdacfb3a.jpg",
+        "url": "https://twitter.com/da5is"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1324109192517615616#favorited-by-16551979",
+      "published": null,
+      "wm-received": "2021-05-16T00:35:22Z",
+      "wm-id": 1159145,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1324109192517615616/16551979",
+      "wm-target": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "like-of": "https://www.sheldonhull.com/blog/consider-the-benefits-of-powershell-for-developer-workflows/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Nirmal Thewarathanthri",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4d574e02cec5b922f4f155677f5ea680f57bf72ad6aeee40697a31208e7d228f.jpg",
+        "url": "https://twitter.com/nirmalmt"
+      },
+      "url": "https://twitter.com/sheldon_hull/status/1393651284469821442#favorited-by-20866764",
+      "published": null,
+      "wm-received": "2021-05-15T21:37:45Z",
+      "wm-id": 1158946,
+      "wm-source": "https://brid.gy/like/twitter/sheldon_hull/1393651284469821442/20866764",
+      "wm-target": "https://www.sheldonhull.com/blog/diagrams-as-code/",
+      "like-of": "https://www.sheldonhull.com/blog/diagrams-as-code/",
+      "wm-property": "like-of",
+      "wm-private": false
+    }
+  ]
+}

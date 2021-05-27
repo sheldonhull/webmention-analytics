@@ -48,6 +48,14 @@ Copy it to your clipboard. Then go to your forked repository's settings page and
 
 ## Sheldon - My Setup
 
+I ran this and it worked:
+
+```shell
+yarn install
+npm run eleventy:prod
+npm start
+```
+
 ```shell
 brew install yarn
 yarn add npm-run-all --dev
@@ -58,4 +66,11 @@ For running on mac, fix this error: `Node Sass does not yet support your current
 
 ```shell
 npm rebuild node-sass
+npm install node-sass@latest
+npm install is-buffer --save-dev
+npm install queue-microtask --save-dev
+```
+
+```shell
+npm run eleventy:prod
 ```
