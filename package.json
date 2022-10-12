@@ -45,7 +45,7 @@
     "node-fetch": "^2.6.1",
     "run-s": "*",
     "sanitize-html": "^2.3.2",
-    "svg-sprite": "^1.5.0",
+    "svg-sprite": "^1.5.4",
     "url-parse": "^1.4.7",
     "webpack": "^4.44.1"
   },

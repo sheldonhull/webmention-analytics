@@ -3,3 +3,5 @@ dist
 # cache  ## Caching webmentions
 .env
 pkg/
+.yarn/cache/
+.yarn/*.gz
