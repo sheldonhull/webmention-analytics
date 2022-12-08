@@ -31,7 +31,7 @@
     "chartist": "^0.11.4",
     "chartist-plugin-tooltips": "0.0.17",
     "clean-css": "^4.2.3",
-    "critical": "^2.0.3",
+    "critical": "^5.0.3",
     "cssesc": "^3.0.0",
     "del-cli": "^3.0.1",
     "dotenv": "^8.2.0",
@@ -45,7 +45,7 @@
     "node-fetch": "^2.6.1",
     "run-s": "*",
     "sanitize-html": "^2.3.2",
-    "svg-sprite": "^1.5.4",
+    "svg-sprite": "^2.0.2",
     "url-parse": "^1.4.7",
     "webpack": "^4.44.1"
   },
